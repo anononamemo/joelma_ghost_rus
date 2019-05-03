@@ -10,8 +10,8 @@ jQuery(document).ready(function($) {
         'infinite-scroll': false,
         'infinite-scroll-step': 1,
         'disqus-shortname': 'hauntedthemes-demo',
-        'content-api-host': '',
-        'content-api-key': '',
+        'content-api-host': 'https://uralianc.ru',
+        'content-api-key': '00033d5cada7f342a3e117f9a6',
     };
 
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
